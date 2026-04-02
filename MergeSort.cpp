@@ -10,7 +10,7 @@ void input()
 {
     while (true)
     {
-        cout << "Masukkan Panjang element array : ";
+        cout << "Masukkan Panjang element arra : ";
         cin >> n;
 
         if (n <= 20)
